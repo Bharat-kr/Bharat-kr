@@ -12,7 +12,7 @@
 
 - 👨‍💻 All of my projects are available at [https://bharat-kr.github.io/Profile/](https://bharat-kr.github.io/Profile/)
 
-- 💬 Ask me about **HTML, CSS, JAVASCRIPT**
+- 💬 Ask me about **HTML, CSS, JAVASCRIPT, BOOTSTRAP**
 
 - 📫 How to reach me **kumarbharat661@gmail.com**
 
