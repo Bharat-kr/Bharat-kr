@@ -1,4 +1,4 @@
-[![MasterHead](https://media-exp1.licdn.com/dms/image/C5616AQHOzg6KuptR-w/profile-displaybackgroundimage-shrink_350_1400/0/1630420561359?e=1636588800&v=beta&t=vTZ_42JX1AcTC4LkHE4dMtXw9eGBAx97AceOnomqP5Y)](https://Bharat-kr.github.io)
+[![MasterHead](https://media-exp1.licdn.com/dms/image/C5616AQHOzg6KuptR-w/profile-displaybackgroundimage-shrink_350_1400/0/1630420561359?e=1644451200&v=beta&t=jANPGlYlNByI7Wu697hCYQ1Mj0wwATBebSNkHskr41M)](https://Bharat-kr.github.io)
 <h1 align="center">Hi 👋, I'm Bharat Kumar</h1>
 <h3 align="center">An Aspiring Web Developer</h3>
 
