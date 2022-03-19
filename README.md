@@ -6,13 +6,13 @@
 
 <p align="left"> <a href="https://twitter.com/bharat_kumar15" target="blank"><img src="https://img.shields.io/twitter/follow/bharat_kumar15?logo=twitter&style=for-the-badge" alt="bharat_kumar15" /></a> </p>
 
-- 🔭 I’m currently working on [Fooders](https://github.com/Bharat-kr/fooders)
+- 🔭 I’m currently working as Intern
 
-- 🌱 I’m currently learning **React, Node, MongoDB**
+- 🌱 I’m currently learning **NextJs, Solidity**
 
 - 👨‍💻 All of my projects are available at [https://bharat-kr.github.io/Profile/](https://bharat-kr.github.io/Profile/)
 
-- 💬 Ask me about **HTML, CSS, JAVASCRIPT, BOOTSTRAP**
+- 💬 Ask me about **HTML, CSS, JAVASCRIPT, BOOTSTRAP, React**
 
 - 📫 How to reach me **kumarbharat661@gmail.com**
 
