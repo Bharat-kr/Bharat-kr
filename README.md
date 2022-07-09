@@ -1,4 +1,4 @@
-[![MasterHead](https://media-exp1.licdn.com/dms/image/C5616AQHOzg6KuptR-w/profile-displaybackgroundimage-shrink_350_1400/0/1630420561359?e=1657152000&v=beta&t=qKGYIcLxBumlEfiWPCPvdyw5SWW5rdyDHAvHTmaY8DM)](https://Bharat-kr.github.io)
+[![MasterHead](./cover.png)](https://Bharat-kr.github.io)
 <h1 align="center">Hi 👋, I'm Bharat Kumar</h1>
 <h3 align="center">An Aspiring Web Developer</h3>
 
@@ -34,10 +34,10 @@
 
 <!--   GitHub stats graph -->
 ### 📈 GitHub Activity Graph:
-![Asmit's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=Bharat-kr&hide_border=true&theme=redical)
+![Asmit's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=Bharat-kr&hide_border=true&theme=gotham)
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=bharat-kr&show_icons=true&locale=en&layout=compact" alt="bharat-kr" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=bharat-kr&theme=gotham&show_icons=true&locale=en&layout=compact" alt="bharat-kr" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=bharat-kr&show_icons=true&locale=en" alt="bharat-kr" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=bharat-kr&theme=gotham&&show_icons=true&locale=en" alt="bharat-kr" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=bharat-kr&" alt="bharat-kr" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=bharat-k&theme=gotham&" alt="bharat-kr" /></p>
