@@ -40,4 +40,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=bharat-kr&theme=gotham&&show_icons=true&locale=en" alt="bharat-kr" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=bharat-k&theme=gotham&" alt="bharat-kr" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=bharat-kr&theme=gotham&" alt="bharat-kr" /></p>
