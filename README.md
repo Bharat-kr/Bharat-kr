@@ -43,9 +43,9 @@
 
 <p display="flex" width="100%">
 <a href="https://github.com/Bharat-kr">
-  <img align="left" height="200" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Bharat-kr&custom_title=Most%20Used%20Languages&theme=gotham&hide_border=true&area=true&layout=compact" />
+  <img align="left" height="180" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Bharat-kr&custom_title=Most%20Used%20Languages&theme=gotham&hide_border=true&area=true&layout=compact" />
   </a>
-  <img align="center" height="200" src="https://github-readme-stats.vercel.app/api?username=Bharat-kr&show_icons=true&custom_title=Github%20Stats&theme=gotham&hide_border=true&area=true" />
+  <img align="center" height="180" src="https://github-readme-stats.vercel.app/api?username=Bharat-kr&show_icons=true&custom_title=Github%20Stats&theme=gotham&hide_border=true&area=true" />
 </p>
 </p>
 
