@@ -42,11 +42,10 @@
 ### 📈&nbsp; `My Stats:`
 
 <p display="flex" width="100%">
-<a href="https://github.com/Bharat-kr">
+  <a href="https://github.com/Bharat-kr">
   <img align="left" height="160" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Bharat-kr&custom_title=Most%20Used%20Languages&theme=gotham&hide_border=true&area=true&layout=compact" />
   </a>
   <img align="center" height="160" src="https://github-readme-stats.vercel.app/api?username=Bharat-kr&show_icons=true&custom_title=Github%20Stats&theme=gotham&hide_border=true&area=true" />
-</p>
 </p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=bharat-kr&theme=gotham&hide_border=true&" alt="bharat-kr" /></p>
