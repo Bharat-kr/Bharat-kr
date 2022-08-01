@@ -1,4 +1,4 @@
-[![MasterHead](./cover.png)](https://Bharat-kr.github.io)
+[![MasterHead](./Cover.png)](https://Bharat-kr.github.io)
 
 <h1 align="center">Hi 👋, I'm Bharat Kumar</h1>
 <h3 align="center">An Aspiring Web Developer</h3>
