@@ -1,4 +1,4 @@
-[![MasterHead](./Cover.png)](https://bharat-kr.github.io/Profile/)
+[![MasterHead](./mainCover.png)](https://bharat-kr.github.io/Profile/)
 
 <h3 align="center">An Aspiring Web Developer</h3>
 
