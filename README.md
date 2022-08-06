@@ -1,6 +1,5 @@
-[![MasterHead](./Cover.png)](https://Bharat-kr.github.io)
+[![MasterHead](./Cover.png)](https://bharat-kr.github.io/Profile/)
 
-<h1 align="center">Hi 👋, I'm Bharat Kumar</h1>
 <h3 align="center">An Aspiring Web Developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bharat-kr&label=Profile%20views&color=0e75b6&style=flat" alt="bharat-kr" /> </p>
