@@ -38,6 +38,10 @@
 
 ![Bharat's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=Bharat-kr&hide_border=true&theme=gotham)
 
+### 📈 `Holopin Badge Board:`
+
+[![@bharatkumar15's Holopin board](https://holopin.me/bharatkumar15)](https://holopin.io/@bharatkumar15)
+
 ### 📈&nbsp; `My Stats:`
 
 <p display="flex" width="100%">
