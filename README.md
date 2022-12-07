@@ -10,7 +10,7 @@
 
 - 🌱 I’m currently learning **Google Cloud Platform**
 
-- 👨‍💻 All of my projects are available at [https://bharat-kr.github.io/Profile/](https://bharat-kr.github.io/Profile/)
+- 👨‍💻 All of my projects are available at [https://bharatkumar.vercel.app/](https://bharatkumar.vercel.app/)
 
 - 💬 Ask me about **HTML, CSS, JAVASCRIPT, BOOTSTRAP, ReactJs , NextJs**
 
