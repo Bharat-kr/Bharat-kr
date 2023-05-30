@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **Google Cloud Platform**
 
-- 👨‍💻 All of my projects are available at [https://bharat-kr.github.io/Profile/](https://bharat-kr.github.io/Profile/)
+- 👨‍💻 All of my projects are available at [https://bharatkumar.vercel.app/](https://bharatkumar.vercel.app/)
 
 - 💬 Ask me about **HTML, CSS, JAVASCRIPT, BOOTSTRAP, ReactJs , NextJs**
 
@@ -31,6 +31,10 @@
 ### 📈 `GitHub Activity Graph:`
 
 ![Bharat's GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Bharat-kr&theme=react)
+
+### 📈 `Holopin Badge Board:`
+
+[![@bharatkumar15's Holopin board](https://holopin.me/bharatkumar15)](https://holopin.io/@bharatkumar15)
 
 ### 📈&nbsp; `My Stats:`
 
