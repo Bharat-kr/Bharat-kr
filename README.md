@@ -32,9 +32,9 @@
 
 ![Bharat's GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Bharat-kr&theme=react)
 
-### 📈 `Holopin Badge Board:`
+<!-- ### 📈 `Holopin Badge Board:`
 
-[![@bharatkumar15's Holopin board](https://holopin.me/bharatkumar15)](https://holopin.io/@bharatkumar15)
+[![@bharatkumar15's Holopin board](https://holopin.me/bharatkumar15)](https://holopin.io/@bharatkumar15) -->
 
 ### 📈&nbsp; `My Stats:`
 
