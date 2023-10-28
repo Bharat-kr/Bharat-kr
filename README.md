@@ -20,7 +20,7 @@
 
 <h3 align="left">Languages and Tools:</h3>
 
-[![My Skills](https://skillicons.dev/icons?i=c,cpp,js,python,solidity,react,nodejs,tailwind,bootstrap,sass,git,express,mongo,mysql,figma,redis,postman,aws&perline=6)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=c,cpp,js,python,solidity,react,nodejs,tailwind,bootstrap,sass,git,express,mongo,mysql,figma,redis,postman,aws,webpack,html,css,github,vscode&perline=6)](https://skillicons.dev)
 
 <!--   GitHub stats graph -->
 
