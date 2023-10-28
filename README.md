@@ -1,4 +1,4 @@
-[![Header](./test.png)](https://bharatkumar.vercel.app/)
+<img src="./test.png" alt="Header"/>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bharat-kr&label=Profile%20views&color=0e75b6&style=flat" alt="bharat-kr" /> </p>
 
