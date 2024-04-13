@@ -1,4 +1,4 @@
-<img src="https://ik.imagekit.io/alphadynamic00/github_banner.png?updatedAt=1700639351817" alt="Header"/>
+<img src="https://ik.imagekit.io/d0gepge2x/github_banner.png?updatedAt=1713009632662" alt="Header"/>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bharat-kr&label=Profile%20views&color=0e75b6&style=flat" alt="bharat-kr" /> </p>
 
